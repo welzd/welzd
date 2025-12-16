@@ -1,4 +1,4 @@
-![] (https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FyazYxYWprcHJ1MWluZWpxZmR5a3N5cXN0cjhjeHRxdmk0MWU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif)
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FyazYxYWprcHJ1MWluZWpxZmR5a3N5cXN0cjhjeHRxdmk0MWU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif)
 
 ## Hi I'm Cadnell A. (welzd)
 
