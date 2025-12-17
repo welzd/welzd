@@ -1,4 +1,4 @@
-![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FyazYxYWprcHJ1MWluZWpxZmR5a3N5cXN0cjhjeHRxdmk0MWU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif)
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2FyazYxYWprcHJ1MWluZWpxZmR5a3N5cXN0cjhjeHRxdmk0MWU0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.gif" alt="Demo of the app's login flow" width="1000" height="600">  
 
 ## Hi I'm Cadnell A. (welzd)
 
